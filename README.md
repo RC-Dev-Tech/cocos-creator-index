@@ -13,7 +13,7 @@
 <br>
 
 ## 問題解決
-* [如何在cocos creator使用socket.io](https://github.com/RC-Dev-Tech/cocos-note-2023-04-26) <br>
+* [如何在cocos creator使用socket.io (v3.0)](https://github.com/RC-Dev-Tech/cocos-note-2023-04-26) <br>
 
 <br>
 

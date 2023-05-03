@@ -13,8 +13,8 @@
 <br>
 
 ## 問題解決
-* [如何在cocos creator導入第三方套件 (v3.3+)](https://github.com/RC-Dev-Tech/cocos-note-2023-05-02) <br>
-* [如何在cocos creator使用socket.io (v3.0)](https://github.com/RC-Dev-Tech/cocos-note-2023-04-26) <br>
+* [How to import NPM Modules on cocos creator (v3.3+)](https://github.com/RC-Dev-Tech/cocos-note-2023-05-02) <br>
+* [How to using socket.io on cocos creator (v3.0)](https://github.com/RC-Dev-Tech/cocos-note-2023-04-26) <br>
 
 <br>
 

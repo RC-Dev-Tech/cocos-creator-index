@@ -1,7 +1,7 @@
 # ![](https://drive.google.com/uc?id=10INx5_pkhMcYRdx_OO4rXNXxcsvPtBYq) Cocos Creator 相關實作
 
 > ##### 官方文件寫得很詳細，這邊只會關注於範例實作的部分.
-> ##### Cocos Creator version 3.7.2
+> ##### 使用版本：Cocos Creator version 3.7.2
 
 <br>
 

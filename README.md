@@ -28,7 +28,7 @@
 <br>
 
 ## 基礎應用
-* [Dashboard]() <br>
+* [Dashboard](https://github.com/RC-Dev-Tech/cocos-dashboard) <br>
 * [專案結構]() <br>
 * [編輯器介紹]() <br>
 

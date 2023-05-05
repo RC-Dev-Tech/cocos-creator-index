@@ -1,6 +1,7 @@
 # ![](https://drive.google.com/uc?id=10INx5_pkhMcYRdx_OO4rXNXxcsvPtBYq) Cocos Creator 相關實作
 
-> ##### 理論請自行找，網路上有很多相關的文章，這邊只關注於範例實作的部分.
+> ##### 理論請自行找，官方文件寫得很詳細，這邊只關注於範例實作的部分.
+> ##### Cocos Creator version 3.7.2
 
 <br>
 

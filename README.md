@@ -3,7 +3,7 @@
 > ##### 官方文件寫得很詳細，這邊只會關注於範例實作的部分.
 > ##### 使用版本：Cocos Creator version 3.7.2
 
-<br>
+---
 
 <!--ts-->
 ## 目錄
@@ -25,26 +25,24 @@
 <!--te-->
 
 ---
-<br>
 
 ## 基礎應用
 * [Dashboard](https://github.com/RC-Dev-Tech/cocos-dashboard) <br>
 * [專案結構](https://github.com/RC-Dev-Tech/cocos-folder-struct) <br>
 * [編輯器介紹](https://github.com/RC-Dev-Tech/cocos-editor) <br>
 
-<br>
 
 ---
-<br>
 
 ## 問題解決
 * [How to import NPM Modules on cocos creator (v3.3+)](https://github.com/RC-Dev-Tech/cocos-note-2023-05-02) <br>
 * [How to using socket.io on cocos creator (v3.0)](https://github.com/RC-Dev-Tech/cocos-note-2023-04-26) <br>
 
-<br>
 
 ---
+
 <!--ts-->
 #### [目錄 ↩](#目錄)
 <!--te-->
+
 ---

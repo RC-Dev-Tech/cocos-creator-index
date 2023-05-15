@@ -1,7 +1,7 @@
 # ![](https://drive.google.com/uc?id=10INx5_pkhMcYRdx_OO4rXNXxcsvPtBYq) Cocos Creator 相關實作
 ```diff
 - 官方文檔已經有詳細的介紹跟功能描述，這邊只會關注於範例跟測試的實作部分！
-+ 使用版本：Cocos Creator version 3.7.2
++ 使用版本：Cocos Creator version 3.7.3
 ```
 
 ---

@@ -18,6 +18,7 @@
 
 ## 基礎應用
 * [版本控制](https://github.com/RC-Dev-Tech/cocos-folder-struct) <br>
+* 除錯追蹤
 
 ---
 
